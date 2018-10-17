@@ -5,7 +5,7 @@ Code for the ECCV 2018 paper:
 
 Website: http://wisionlab.cs.wisc.edu/project/lfsceneflow
 
-GitHub: https://github.com/sizhuom/LFMotionECCV
+GitHub: https://github.com/sizhuom/LFSceneFlow
 
 ## How to Use
 Run initLFMotion.m to set up the necessary MATLAB paths. Then take a look at runTest.m.
