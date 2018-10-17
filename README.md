@@ -1,4 +1,4 @@
-# LFMotionECCV
+# LFSceneFlow
 Code for the ECCV 2018 paper:
 
 >Sizhuo Ma, Brandon M. Smith, Mohit Gupta. _3D Scene Flow from 4D Light Field Gradients_. European Conference on Computer Vision (ECCV 2018)
